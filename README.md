@@ -1,2 +1,2 @@
 # Capstone
-This is the presentation for our group "The Invincibles" on Self Driving Car Game.
+Here is the program file for our group "The Invincibles" on Self Driving Car Game.
